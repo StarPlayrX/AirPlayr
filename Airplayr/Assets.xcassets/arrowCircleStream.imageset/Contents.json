@@ -1,0 +1,27 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "circleArrowStream-2.pdf",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "circleArrowStream-1.pdf",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "circleArrowStream.pdf",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "compression-type" : "automatic",
+    "template-rendering-intent" : "original"
+  }
+}
